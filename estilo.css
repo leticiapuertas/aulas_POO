@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+html,body{
+    font-size: 62.5%;
+    font-family:'Times New Roman', Times, serif ;
+    text-rendering: optimizeLegibility;
+}
+p{
+    color:red;
+    font-size: 3rem;
+}
+ol{
+    margin-left: 1em;
+    font-size: 3rem;
+    list-style:
+}
+div{
+    width:10rem ;
+    display:inline-block;
+}

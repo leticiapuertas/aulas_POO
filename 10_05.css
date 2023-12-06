@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    font-size: 62.5%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-rendering: optimizeLegibility;
+    height: 100%;
+    width: 100%;
+}
+
+section{
+    background-color: blueviolet;
+    height: 100%;
+    width: 70%;
+    font-size: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    height: 7rem;
+    width: 25rem;
+}
+
+div{
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+main{
+    background-color: aqua;
+    height: 100%;
+    width: 30%;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+
+}

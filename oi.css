@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+html,body{
+    font-size: 62.5%;
+    font-family:'Times New Roman', Times, serif ;
+    text-rendering: optimizeLegibility;
+}
+
+div{
+    display: flex;
+    justify-content:center;
+    font-size: 3rem;
+    align-items: flex-end;
+    background-color: blue;
+    height: 30rem;
+}
+
+p{
+   background-color: aqua;
+}
